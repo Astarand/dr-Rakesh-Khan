@@ -1,4 +1,4 @@
-# 🩺 Doctor Rasheed Khan — Portfolio Website
+# 🩺 Doctor Rakesh Khan — Portfolio Website
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=750&lines=Dr.+Rasheed+Khan;Professional+Medical+Portfolio;Patient+Care+%7C+Trust+%7C+Experience;Single+Page+Website" />
